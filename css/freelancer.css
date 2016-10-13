@@ -32,7 +32,8 @@ h6 {
   font-weight: 700;
 }
 hr.star-light,
-hr.star-primary {
+hr.star-primary,
+hr.basic {
   padding: 0;
   border: none;
   border-top: solid 5px;
@@ -186,7 +187,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #128F76;
+  background: #222222;
   color: white;
 }
 @media (max-width: 767px) {
