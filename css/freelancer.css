@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 ::-moz-selection {
@@ -335,6 +335,14 @@ footer .footer-below {
   color: white;
   background: #3A3133;
   border: solid 2px #3A3133;
+}
+.btn-outline.stackoverflow:hover,
+.btn-outline.stackoverflow:focus,
+.btn-outline.stackoverflow:active,
+.btn-outline.stackoverflow.active {
+  color: white;
+  background: #f48024;
+  border: solid 2px #f48024;
 }
 .btn-outline.twitter:hover,
 .btn-outline.twitter:focus,
